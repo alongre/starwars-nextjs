@@ -11,10 +11,10 @@
 }
 
 .light {
-	--color-bg-primary: #220572;
+	--color-bg-primary: deepskyblue;
 	--color-bg-secondary: #1fc8e6;
-	--color-text-primary: #ffffff;
-	--color-text-secondary: #fffffa;
+	--color-text-primary: black;
+	--color-text-secondary: gray;
 	--color-text-accent: #2b6cb0;
 }
 
