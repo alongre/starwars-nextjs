@@ -1,15 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Description
 
 Display starwars information using starwars api with dark mode
 
 ## Dev Stack
 
-NextJS
-Typescript
-tailwind css
-react-icons
+- NextJS
+- Typescript
+- tailwind css
+- react-icons
 
 ## Deploy on Vercel
 
